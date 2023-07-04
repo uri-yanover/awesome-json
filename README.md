@@ -6,6 +6,7 @@ Inspired by [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline).
 ## Inherent limitations
 * [JSON does not have distinct types for integers and floating-point values](https://json-schema.org/understanding-json-schema/reference/numeric.html)
 * [How to escape special characters in building a JSON string](https://stackoverflow.com/questions/19176024/how-to-escape-special-characters-in-building-a-json-string)
+* Quora on ["how do you send binary data in JSON"](https://www.quora.com/How-do-you-send-binary-data-in-JSON) (TL;DR: no "blessed" option, base64 is ubiquitous, a naive string representation is not allowed)
 
 ## Command line
 * [jq](https://jqlang.github.io/jq/) - an exremely versatile, albeit complex, query language for processing JSON documents on the command line. Has an excellent syntax highlighting mode. Caveat emptor: simple one liners are simple, but it makes for very tough engineering.
