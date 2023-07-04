@@ -29,6 +29,7 @@ Inspired by [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline).
 * [JSON Functions and Operators](https://www.postgresql.org/docs/current/functions-json.html) - from the official Postgres docs.
 
 ## Protobuf
+* [Value](https://protobuf.dev/reference/protobuf/google.protobuf/#value) - representing arbitrary JSON data in well-structured protobufs.
 * A canonic way to convert between JSON and Protobuf: [Java](https://www.baeldung.com/java-convert-json-protobuf), [Python](https://googleapis.dev/python/protobuf/latest/google/protobuf/json_format.html)
 
 ## Python
