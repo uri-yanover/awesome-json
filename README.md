@@ -1,4 +1,6 @@
-# awesome-json
+# links-to-json-resources
+
+(I originally labelled this `awesome-json`, but then I realized [awesome-json](https://github.com/burningtree/awesome-json) already exists and is ... awesome, so make sure to look at that too if you haven't previously!)
 Tips and tricks processing JSONs efficiently at scale, with a bias towards production data science/data engineering.
 
 Inspired by [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline).
